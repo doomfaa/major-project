@@ -1,0 +1,29 @@
+/Users/Dominika/Desktop/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Dominika/Desktop/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Dominika/Desktop/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Dominika/Desktop/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/chromedriver
+/Users/Dominika/Desktop/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/testing_framework.deps.json
+/Users/Dominika/Desktop/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/testing_framework.runtimeconfig.json
+/Users/Dominika/Desktop/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/testing_framework.runtimeconfig.dev.json
+/Users/Dominika/Desktop/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/testing_framework.dll
+/Users/Dominika/Desktop/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/testing_framework.pdb
+/Users/Dominika/Desktop/testing_framework/testing_framework/obj/Debug/netcoreapp2.1/testing_framework.csproj.CoreCompileInputs.cache
+/Users/Dominika/Desktop/testing_framework/testing_framework/obj/Debug/netcoreapp2.1/testing_framework.AssemblyInfoInputs.cache
+/Users/Dominika/Desktop/testing_framework/testing_framework/obj/Debug/netcoreapp2.1/testing_framework.AssemblyInfo.cs
+/Users/Dominika/Desktop/testing_framework/testing_framework/obj/Debug/netcoreapp2.1/testing_framework.dll
+/Users/Dominika/Desktop/testing_framework/testing_framework/obj/Debug/netcoreapp2.1/testing_framework.pdb
+/Users/Dominika/Desktop/testing_framework/testing_framework/obj/Debug/netcoreapp2.1/testing_framework.csprojAssemblyReference.cache
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/chromedriver
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/testing_framework.deps.json
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/testing_framework.runtimeconfig.json
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/testing_framework.runtimeconfig.dev.json
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/testing_framework.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/testing_framework/testing_framework/bin/Debug/netcoreapp2.1/testing_framework.pdb
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/testing_framework/testing_framework/obj/Debug/netcoreapp2.1/testing_framework.csproj.CoreCompileInputs.cache
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/testing_framework/testing_framework/obj/Debug/netcoreapp2.1/testing_framework.AssemblyInfoInputs.cache
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/testing_framework/testing_framework/obj/Debug/netcoreapp2.1/testing_framework.AssemblyInfo.cs
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/testing_framework/testing_framework/obj/Debug/netcoreapp2.1/testing_framework.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/testing_framework/testing_framework/obj/Debug/netcoreapp2.1/testing_framework.pdb

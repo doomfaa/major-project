@@ -1,0 +1,34 @@
+/Users/Dominika/Projects/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Dominika/Projects/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Dominika/Projects/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Dominika/Projects/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/chromedriver
+/Users/Dominika/Projects/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/amazon_framework.deps.json
+/Users/Dominika/Projects/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/amazon_framework.runtimeconfig.json
+/Users/Dominika/Projects/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/amazon_framework.runtimeconfig.dev.json
+/Users/Dominika/Projects/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/amazon_framework.dll
+/Users/Dominika/Projects/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/amazon_framework.pdb
+/Users/Dominika/Projects/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/AutomationResources.dll
+/Users/Dominika/Projects/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/AutomationResources.pdb
+/Users/Dominika/Projects/amazon_framework/amazon_framework/obj/Debug/netcoreapp2.1/amazon_framework.csproj.CoreCompileInputs.cache
+/Users/Dominika/Projects/amazon_framework/amazon_framework/obj/Debug/netcoreapp2.1/amazon_framework.AssemblyInfoInputs.cache
+/Users/Dominika/Projects/amazon_framework/amazon_framework/obj/Debug/netcoreapp2.1/amazon_framework.AssemblyInfo.cs
+/Users/Dominika/Projects/amazon_framework/amazon_framework/obj/Debug/netcoreapp2.1/amazon_framework.csproj.CopyComplete
+/Users/Dominika/Projects/amazon_framework/amazon_framework/obj/Debug/netcoreapp2.1/amazon_framework.dll
+/Users/Dominika/Projects/amazon_framework/amazon_framework/obj/Debug/netcoreapp2.1/amazon_framework.pdb
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/chromedriver
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/amazon_framework.deps.json
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/amazon_framework.runtimeconfig.json
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/amazon_framework.runtimeconfig.dev.json
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/amazon_framework.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/amazon_framework.pdb
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/AutomationResources.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/bin/Debug/netcoreapp2.1/AutomationResources.pdb
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/obj/Debug/netcoreapp2.1/amazon_framework.csproj.CoreCompileInputs.cache
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/obj/Debug/netcoreapp2.1/amazon_framework.AssemblyInfoInputs.cache
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/obj/Debug/netcoreapp2.1/amazon_framework.AssemblyInfo.cs
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/obj/Debug/netcoreapp2.1/amazon_framework.csproj.CopyComplete
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/obj/Debug/netcoreapp2.1/amazon_framework.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/amazon_framework/obj/Debug/netcoreapp2.1/amazon_framework.pdb

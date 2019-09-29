@@ -1,0 +1,30 @@
+/Users/Dominika/Projects/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Dominika/Projects/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Dominika/Projects/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Dominika/Projects/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/chromedriver
+/Users/Dominika/Projects/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/AutomationResources.deps.json
+/Users/Dominika/Projects/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/AutomationResources.runtimeconfig.json
+/Users/Dominika/Projects/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/AutomationResources.runtimeconfig.dev.json
+/Users/Dominika/Projects/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/AutomationResources.dll
+/Users/Dominika/Projects/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/AutomationResources.pdb
+/Users/Dominika/Projects/amazon_framework/AutomationResources/obj/Debug/netcoreapp2.1/AutomationResources.csprojAssemblyReference.cache
+/Users/Dominika/Projects/amazon_framework/AutomationResources/obj/Debug/netcoreapp2.1/AutomationResources.csproj.CoreCompileInputs.cache
+/Users/Dominika/Projects/amazon_framework/AutomationResources/obj/Debug/netcoreapp2.1/AutomationResources.AssemblyInfoInputs.cache
+/Users/Dominika/Projects/amazon_framework/AutomationResources/obj/Debug/netcoreapp2.1/AutomationResources.AssemblyInfo.cs
+/Users/Dominika/Projects/amazon_framework/AutomationResources/obj/Debug/netcoreapp2.1/AutomationResources.dll
+/Users/Dominika/Projects/amazon_framework/AutomationResources/obj/Debug/netcoreapp2.1/AutomationResources.pdb
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/chromedriver
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/AutomationResources.deps.json
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/AutomationResources.runtimeconfig.json
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/AutomationResources.runtimeconfig.dev.json
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/AutomationResources.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/bin/Debug/netcoreapp2.1/AutomationResources.pdb
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/obj/Debug/netcoreapp2.1/AutomationResources.csprojAssemblyReference.cache
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/obj/Debug/netcoreapp2.1/AutomationResources.csproj.CoreCompileInputs.cache
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/obj/Debug/netcoreapp2.1/AutomationResources.AssemblyInfoInputs.cache
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/obj/Debug/netcoreapp2.1/AutomationResources.AssemblyInfo.cs
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/obj/Debug/netcoreapp2.1/AutomationResources.dll
+/Users/Dominika/Desktop/MAJOR PROJECT 1743923/amazon_framework/AutomationResources/obj/Debug/netcoreapp2.1/AutomationResources.pdb

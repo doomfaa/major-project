@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{C0C2E6C4-EA40-43E9-900B-F96BB3177220}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testing_framework/DreamTravelTests.cs">
+    <Files>
+      <File FileName="../amazon_framework/amazon_framework/HomePage.cs" Line="9" Column="1" />
+      <File FileName="../amazon_framework/amazon_framework/Tests.cs" />
+      <File FileName="../amazon_framework/amazon_framework/SearchPage.cs" />
+      <File FileName="../amazon_framework/amazon_framework/VoucherPage.cs" />
+      <File FileName="../amazon_framework/amazon_framework/BasePage.cs" />
+      <File FileName="../amazon_framework/amazon_framework/BaseTest.cs" Line="1" Column="1" />
+      <File FileName="testing_framework/DreamTravelTests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="amazon_framework" expanded="True">
+            <Node name="amazon_framework" expanded="True" />
+            <Node name="AutomationResources" expanded="True" />
+          </Node>
+          <Node name="testing_framework" expanded="True">
+            <Node name="testing_framework" expanded="True">
+              <Node name="DreamTravelTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="amazon_framework" expanded="True" selected="True" />
+          <Node name="testing_framework" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.testing__framework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
